@@ -7,4 +7,4 @@
   - Setting feature image
   - Upload images
 
-[See live](https://react-img-gallery.vercel.app)
+[See live](https://sortable-image-gallery.netlify.app)
