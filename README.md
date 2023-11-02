@@ -1,4 +1,9 @@
-# React + TypeScript + Vite
+# This is a responsive image gallery application using React JS with different features. They are:
+
+- Re-ordering
+- Select and delete multiple images
+- Setting feature image
+- Upload images
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
