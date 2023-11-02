@@ -7,4 +7,4 @@
   - Setting feature image
   - Upload images
 
-[See live](https://sortable-image-gallery.netlify.app)
+[See live](https://image-gallery.mahim.dev/)
