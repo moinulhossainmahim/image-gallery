@@ -1,9 +1,9 @@
-export interface User {
+export interface Image {
   id: number;
   src: string | File;
 }
 
-export const data: User[] = [
+export const data: Image[] = [
   {
     id: 1,
     src: "/images/image-11.jpeg",

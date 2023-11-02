@@ -16,10 +16,6 @@
 	transition: 1s;
 }
 
-.img-container.dragging {
-  transform: translateX(0px);
-}
-
 .img-gallery-top {
 	display: flex;
 	justify-content: space-between;
