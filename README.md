@@ -6,5 +6,3 @@
   - Select and delete multiple images
   - Setting feature image
   - Upload images
-
-[See live](https://sortable-image-gallery.netlify.app)
